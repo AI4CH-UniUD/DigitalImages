@@ -5,11 +5,13 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent
 TILES_DIR = BASE_DIR / "iiif"
 
+# Base URL delle sottocartelle iiif (come sono hostate su GitHub Pages)
 BASE_URL = "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif"
-MANIFEST_ID = "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest.json"
+
+# URL a cui sarà raggiungibile il manifest P2
+MANIFEST_ID = "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json"
 
 LABEL = "Fuggilozio 1_20 aprile 1859"
-LANG = "it"
 # ============================
 
 
@@ -25,7 +27,7 @@ def main():
         return
 
     canvases = []
-    canvas_base = MANIFEST_ID.rsplit("/", 1)[0] + "/canvas/"
+    sequence_id = MANIFEST_ID + "/sequence/normal"
 
     for idx, d in enumerate(subdirs, start=1):
         info_path = d / "info.json"
@@ -50,67 +52,68 @@ def main():
             print(f"SKIP {d.name}: non trovo width/height in info.json")
             continue
 
-        identifier = d.name  # nome sottocartella, es. "img1"
+        identifier = d.name  # es. "p233"
         service_id = f"{BASE_URL}/{identifier}"
-        service_type = info.get("type") or info.get("@type") or "ImageService3"
-        profile = info.get("profile", "level0")
-
-        canvas_id = f"{canvas_base}p{idx}"
-        annotation_page_id = f"{canvas_id}/page"
+        canvas_id = f"{MANIFEST_ID}/canvas/{identifier}"
         annotation_id = f"{canvas_id}/annotation"
 
         canvas = {
-            "id": canvas_id,
-            "type": "Canvas",
-            "label": {LANG: [f"Pagina {idx}"]},
+            "@id": canvas_id,
+            "@type": "sc:Canvas",
+            "label": f"Pagina {idx}",
             "height": height,
             "width": width,
-            "items": [
+            "images": [
                 {
-                    "id": annotation_page_id,
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": annotation_id,
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "id": f"{service_id}/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "service": [
-                                    {
-                                        "id": service_id,
-                                        "type": service_type,
-                                        "profile": profile,
-                                    }
-                                ],
-                            },
-                            "target": canvas_id,
-                        }
-                    ],
+                    "@context": "http://iiif.io/api/presentation/2/context.json",
+                    "@id": annotation_id,
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "resource": {
+                        "@id": f"{service_id}/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "image/jpeg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": service_id,
+                            "profile": "http://iiif.io/api/image/2/level0.json"
+                        },
+                        "height": height,
+                        "width": width,
+                    },
+                    "on": canvas_id,
                 }
             ],
         }
 
         canvases.append(canvas)
-        print(f"Aggiunta pagina {idx} per '{identifier}' (w={width}, h={height})")
+        print(f"Aggiunta canvas per '{identifier}' (Pagina {idx}, w={width}, h={height})")
 
     manifest = {
-        "@context": "https://iiif.io/api/presentation/3/context.json",
-        "id": MANIFEST_ID,
-        "type": "Manifest",
-        "label": {LANG: [LABEL]},
-        "behavior": ["paged"],
-        "items": canvases,
+        "@context": "http://iiif.io/api/presentation/2/context.json",
+        "@id": MANIFEST_ID,
+        "@type": "sc:Manifest",
+        "label": LABEL,
+        "metadata": [],
+        "sequences": [
+            {
+                "@id": sequence_id,
+                "@type": "sc:Sequence",
+                "label": [
+                    {"@value": "Normal Sequence", "@language": "en"}
+                ],
+                "canvases": canvases,
+            }
+        ],
+        "structures": [],
     }
 
-    out_path = BASE_DIR / "manifest.json"
+    out_path = BASE_DIR / "manifest-p2.json"
     with out_path.open("w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
 
     print()
-    print(f"Manifest scritto in: {out_path}")
+    print(f"Manifest P2 scritto in: {out_path}")
     print(f"ID manifest: {MANIFEST_ID}")
 
 

@@ -1,0 +1,694 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json",
+  "@type": "sc:Manifest",
+  "label": "Fuggilozio 1_20 aprile 1859",
+  "metadata": [],
+  "sequences": [
+    {
+      "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/sequence/normal",
+      "@type": "sc:Sequence",
+      "label": [
+        {
+          "@value": "Normal Sequence",
+          "@language": "en"
+        }
+      ],
+      "canvases": [
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p233",
+          "@type": "sc:Canvas",
+          "label": "Pagina 1",
+          "height": 3833,
+          "width": 2705,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p233/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p233/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p233",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3833,
+                "width": 2705
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p233"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p234",
+          "@type": "sc:Canvas",
+          "label": "Pagina 2",
+          "height": 3761,
+          "width": 2526,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p234/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p234/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p234",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3761,
+                "width": 2526
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p234"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p235",
+          "@type": "sc:Canvas",
+          "label": "Pagina 3",
+          "height": 3812,
+          "width": 2667,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p235/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p235/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p235",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3812,
+                "width": 2667
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p235"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p236",
+          "@type": "sc:Canvas",
+          "label": "Pagina 4",
+          "height": 3724,
+          "width": 2575,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p236/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p236/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p236",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3724,
+                "width": 2575
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p236"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p237",
+          "@type": "sc:Canvas",
+          "label": "Pagina 5",
+          "height": 3823,
+          "width": 2641,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p237/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p237/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p237",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3823,
+                "width": 2641
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p237"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p238",
+          "@type": "sc:Canvas",
+          "label": "Pagina 6",
+          "height": 3725,
+          "width": 2486,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p238/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p238/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p238",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3725,
+                "width": 2486
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p238"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p239",
+          "@type": "sc:Canvas",
+          "label": "Pagina 7",
+          "height": 4100,
+          "width": 2839,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p239/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p239/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p239",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4100,
+                "width": 2839
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p239"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p240",
+          "@type": "sc:Canvas",
+          "label": "Pagina 8",
+          "height": 3791,
+          "width": 2671,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p240/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p240/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p240",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3791,
+                "width": 2671
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p240"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p241",
+          "@type": "sc:Canvas",
+          "label": "Pagina 9",
+          "height": 3821,
+          "width": 2686,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p241/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p241/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p241",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3821,
+                "width": 2686
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p241"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p242",
+          "@type": "sc:Canvas",
+          "label": "Pagina 10",
+          "height": 4103,
+          "width": 2783,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p242/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p242/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p242",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 4103,
+                "width": 2783
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p242"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p243",
+          "@type": "sc:Canvas",
+          "label": "Pagina 11",
+          "height": 3870,
+          "width": 2753,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p243/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p243/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p243",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3870,
+                "width": 2753
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p243"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p244",
+          "@type": "sc:Canvas",
+          "label": "Pagina 12",
+          "height": 3941,
+          "width": 2797,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p244/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p244/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p244",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3941,
+                "width": 2797
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p244"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p245",
+          "@type": "sc:Canvas",
+          "label": "Pagina 13",
+          "height": 3941,
+          "width": 2742,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p245/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p245/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p245",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3941,
+                "width": 2742
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p245"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p246",
+          "@type": "sc:Canvas",
+          "label": "Pagina 14",
+          "height": 3961,
+          "width": 2786,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p246/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p246/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p246",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3961,
+                "width": 2786
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p246"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p247",
+          "@type": "sc:Canvas",
+          "label": "Pagina 15",
+          "height": 3961,
+          "width": 2825,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p247/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p247/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p247",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3961,
+                "width": 2825
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p247"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p248",
+          "@type": "sc:Canvas",
+          "label": "Pagina 16",
+          "height": 3933,
+          "width": 2810,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p248/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p248/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p248",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3933,
+                "width": 2810
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p248"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p249",
+          "@type": "sc:Canvas",
+          "label": "Pagina 17",
+          "height": 3918,
+          "width": 2769,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p249/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p249/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p249",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3918,
+                "width": 2769
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p249"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p250",
+          "@type": "sc:Canvas",
+          "label": "Pagina 18",
+          "height": 3869,
+          "width": 2754,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p250/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p250/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p250",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3869,
+                "width": 2754
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p250"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p251",
+          "@type": "sc:Canvas",
+          "label": "Pagina 19",
+          "height": 3767,
+          "width": 2737,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p251/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p251/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p251",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3767,
+                "width": 2737
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p251"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p252",
+          "@type": "sc:Canvas",
+          "label": "Pagina 20",
+          "height": 3934,
+          "width": 2816,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p252/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p252/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p252",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3934,
+                "width": 2816
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p252"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p253",
+          "@type": "sc:Canvas",
+          "label": "Pagina 21",
+          "height": 3943,
+          "width": 2777,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p253/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p253/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p253",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3943,
+                "width": 2777
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p253"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p254",
+          "@type": "sc:Canvas",
+          "label": "Pagina 22",
+          "height": 3851,
+          "width": 2683,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p254/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p254/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p254",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3851,
+                "width": 2683
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p254"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p255",
+          "@type": "sc:Canvas",
+          "label": "Pagina 23",
+          "height": 3843,
+          "width": 2726,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p255/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p255/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p255",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3843,
+                "width": 2726
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p255"
+            }
+          ]
+        },
+        {
+          "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p256",
+          "@type": "sc:Canvas",
+          "label": "Pagina 24",
+          "height": 3951,
+          "width": 2823,
+          "images": [
+            {
+              "@context": "http://iiif.io/api/presentation/2/context.json",
+              "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p256/annotation",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p256/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p256",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "height": 3951,
+                "width": 2823
+              },
+              "on": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/manifest-p2.json/canvas/p256"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": []
+}
