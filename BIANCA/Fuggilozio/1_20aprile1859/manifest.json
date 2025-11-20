@@ -26,13 +26,13 @@
 				{
 					"@id": "http://1c226879-5fbe-442e-9dc3-c2e2d09f023f",
 					"@type": "sc:Canvas",
-					"label": "Empty canvas",
+					"label": "p233",
 					"height": 3833,
 					"width": 2705,
 					"images": [
 						{
 							"@context": "http://iiif.io/api/presentation/2/context.json",
-							"@id": "http://07944592-7ab0-4553-826c-1fa8a5478855",
+							"@id": "http://8c459098-0a3d-4271-b2d6-89b473f0044b",
 							"@type": "oa:Annotation",
 							"motivation": "sc:painting",
 							"resource": {
