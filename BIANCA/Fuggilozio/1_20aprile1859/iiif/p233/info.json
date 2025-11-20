@@ -26,7 +26,7 @@
   } ],
   "profile" : "level0",
   "width" : 2705,
-  "id" : "http://localhost:8000/iiif/p233",
+  "id" : "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/1_20aprile1859/iiif/p233",
   "type" : "ImageService3",
   "@context" : "http://iiif.io/api/image/3/context.json",
   "height" : 3833
