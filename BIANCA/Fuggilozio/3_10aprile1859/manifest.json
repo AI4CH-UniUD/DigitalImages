@@ -1,0 +1,1760 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/6fxy6ka7i6b-mip3rig2",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Blank Manifest"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/rbgnba9a4tm-mip3rsdq",
+      "type": "Canvas",
+      "height": 3901,
+      "width": 2728,
+      "label": {
+        "en": [
+          "281"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p281/full/341,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 488,
+          "width": 341
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/rbgnba9a4tm-mip3rsdq/annotation-page/ed6fo6knh7s-mip3rsdq",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/vfspjrq0nh-mip3rsdq",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/rbgnba9a4tm-mip3rsdq",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p281/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3901,
+                "width": 2728,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 86,
+                        "height": 122
+                      },
+                      {
+                        "width": 171,
+                        "height": 244
+                      },
+                      {
+                        "width": 341,
+                        "height": 488
+                      },
+                      {
+                        "width": 682,
+                        "height": 976
+                      },
+                      {
+                        "width": 1364,
+                        "height": 1951
+                      },
+                      {
+                        "width": 2728,
+                        "height": 3901
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2728,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p281",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3901
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/lkp59jr9vbs-mip3sb2s",
+      "type": "Canvas",
+      "height": 3858,
+      "width": 2743,
+      "label": {
+        "en": [
+          "282"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p282/full/343,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 483,
+          "width": 343
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/lkp59jr9vbs-mip3sb2s/annotation-page/wwa6hnbqay-mip3sb2s",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/igltl955ntb-mip3sb2s",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/lkp59jr9vbs-mip3sb2s",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p282/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3858,
+                "width": 2743,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 86,
+                        "height": 121
+                      },
+                      {
+                        "width": 172,
+                        "height": 242
+                      },
+                      {
+                        "width": 343,
+                        "height": 483
+                      },
+                      {
+                        "width": 686,
+                        "height": 965
+                      },
+                      {
+                        "width": 1372,
+                        "height": 1929
+                      },
+                      {
+                        "width": 2743,
+                        "height": 3858
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2743,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p282",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3858
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/yjqk0ef6hgp-mip3t0oz",
+      "type": "Canvas",
+      "height": 3830,
+      "width": 2731,
+      "label": {
+        "en": [
+          "283"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p283/full/342,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 479,
+          "width": 342
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/yjqk0ef6hgp-mip3t0oz/annotation-page/9265qhjvd0s-mip3t0oz",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/h7l3ssehxy-mip3t0oy",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/yjqk0ef6hgp-mip3t0oz",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p283/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3830,
+                "width": 2731,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 86,
+                        "height": 120
+                      },
+                      {
+                        "width": 171,
+                        "height": 240
+                      },
+                      {
+                        "width": 342,
+                        "height": 479
+                      },
+                      {
+                        "width": 683,
+                        "height": 958
+                      },
+                      {
+                        "width": 1366,
+                        "height": 1915
+                      },
+                      {
+                        "width": 2731,
+                        "height": 3830
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2731,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p283",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3830
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/h2d0whop6ac-mip3td2p",
+      "type": "Canvas",
+      "height": 3858,
+      "width": 2761,
+      "label": {
+        "en": [
+          "284"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p284/full/346,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 483,
+          "width": 346
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/h2d0whop6ac-mip3td2p/annotation-page/ueguzcpphul-mip3td2p",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/gd4hfe6i6o-mip3td2p",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/h2d0whop6ac-mip3td2p",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p284/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3858,
+                "width": 2761,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 87,
+                        "height": 121
+                      },
+                      {
+                        "width": 173,
+                        "height": 242
+                      },
+                      {
+                        "width": 346,
+                        "height": 483
+                      },
+                      {
+                        "width": 691,
+                        "height": 965
+                      },
+                      {
+                        "width": 1381,
+                        "height": 1929
+                      },
+                      {
+                        "width": 2761,
+                        "height": 3858
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2761,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p284",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3858
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/vipy97yvn1r-mip3tjqp",
+      "type": "Canvas",
+      "height": 3823,
+      "width": 2740,
+      "label": {
+        "en": [
+          "285"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p285/full/343,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 478,
+          "width": 343
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/vipy97yvn1r-mip3tjqp/annotation-page/99q0tozydbf-mip3tjqp",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/p0zy62jbz1c-mip3tjqp",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/vipy97yvn1r-mip3tjqp",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p285/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3823,
+                "width": 2740,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 86,
+                        "height": 120
+                      },
+                      {
+                        "width": 172,
+                        "height": 239
+                      },
+                      {
+                        "width": 343,
+                        "height": 478
+                      },
+                      {
+                        "width": 685,
+                        "height": 956
+                      },
+                      {
+                        "width": 1370,
+                        "height": 1912
+                      },
+                      {
+                        "width": 2740,
+                        "height": 3823
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2740,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p285",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3823
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/izgxjibq6h-mip3tppc",
+      "type": "Canvas",
+      "height": 3805,
+      "width": 2714,
+      "label": {
+        "en": [
+          "286"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p286/full/340,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 476,
+          "width": 340
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/izgxjibq6h-mip3tppc/annotation-page/6zqbmhxrz4-mip3tppc",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/z31fr1lj03d-mip3tppc",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/izgxjibq6h-mip3tppc",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p286/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3805,
+                "width": 2714,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 85,
+                        "height": 119
+                      },
+                      {
+                        "width": 170,
+                        "height": 238
+                      },
+                      {
+                        "width": 340,
+                        "height": 476
+                      },
+                      {
+                        "width": 679,
+                        "height": 952
+                      },
+                      {
+                        "width": 1357,
+                        "height": 1903
+                      },
+                      {
+                        "width": 2714,
+                        "height": 3805
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2714,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p286",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3805
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/2zvg0xfkjip-mip3tvkg",
+      "type": "Canvas",
+      "height": 3847,
+      "width": 2755,
+      "label": {
+        "en": [
+          "287"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p287/full/345,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 481,
+          "width": 345
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/2zvg0xfkjip-mip3tvkg/annotation-page/iprghd80h1-mip3tvkg",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/7y6z13ivv9j-mip3tvkg",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/2zvg0xfkjip-mip3tvkg",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p287/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3847,
+                "width": 2755,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 87,
+                        "height": 121
+                      },
+                      {
+                        "width": 173,
+                        "height": 241
+                      },
+                      {
+                        "width": 345,
+                        "height": 481
+                      },
+                      {
+                        "width": 689,
+                        "height": 962
+                      },
+                      {
+                        "width": 1378,
+                        "height": 1924
+                      },
+                      {
+                        "width": 2755,
+                        "height": 3847
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2755,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p287",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3847
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/wg77qr59yc-mip3u1e9",
+      "type": "Canvas",
+      "height": 3798,
+      "width": 2615,
+      "label": {
+        "en": [
+          "288"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p288/full/327,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 475,
+          "width": 327
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/wg77qr59yc-mip3u1e9/annotation-page/rbr68ljut2a-mip3u1e9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/fak5skk33s-mip3u1e9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/wg77qr59yc-mip3u1e9",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p288/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3798,
+                "width": 2615,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 82,
+                        "height": 119
+                      },
+                      {
+                        "width": 164,
+                        "height": 238
+                      },
+                      {
+                        "width": 327,
+                        "height": 475
+                      },
+                      {
+                        "width": 654,
+                        "height": 950
+                      },
+                      {
+                        "width": 1308,
+                        "height": 1899
+                      },
+                      {
+                        "width": 2615,
+                        "height": 3798
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2615,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p288",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3798
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/fom5964yw0v-mip3u7f0",
+      "type": "Canvas",
+      "height": 3734,
+      "width": 2646,
+      "label": {
+        "en": [
+          "289"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p289/full/331,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 467,
+          "width": 331
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/fom5964yw0v-mip3u7f0/annotation-page/f3gu1uxp19-mip3u7f0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/8e124ws9j83-mip3u7f0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/fom5964yw0v-mip3u7f0",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p289/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3734,
+                "width": 2646,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 83,
+                        "height": 117
+                      },
+                      {
+                        "width": 166,
+                        "height": 234
+                      },
+                      {
+                        "width": 331,
+                        "height": 467
+                      },
+                      {
+                        "width": 662,
+                        "height": 934
+                      },
+                      {
+                        "width": 1323,
+                        "height": 1867
+                      },
+                      {
+                        "width": 2646,
+                        "height": 3734
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2646,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p289",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3734
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/vzu9dbdq9pk-mip3uf71",
+      "type": "Canvas",
+      "height": 3828,
+      "width": 2747,
+      "label": {
+        "en": [
+          "290"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p290/full/344,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 479,
+          "width": 344
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/vzu9dbdq9pk-mip3uf71/annotation-page/k58njf00dy-mip3uf71",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/91wlzugba0j-mip3uf71",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/vzu9dbdq9pk-mip3uf71",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p290/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3828,
+                "width": 2747,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 86,
+                        "height": 120
+                      },
+                      {
+                        "width": 172,
+                        "height": 240
+                      },
+                      {
+                        "width": 344,
+                        "height": 479
+                      },
+                      {
+                        "width": 687,
+                        "height": 957
+                      },
+                      {
+                        "width": 1374,
+                        "height": 1914
+                      },
+                      {
+                        "width": 2747,
+                        "height": 3828
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2747,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p290",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3828
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/hvhbwl67xew-mip3ul74",
+      "type": "Canvas",
+      "height": 3758,
+      "width": 2682,
+      "label": {
+        "en": [
+          "291"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p291/full/336,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 470,
+          "width": 336
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/hvhbwl67xew-mip3ul74/annotation-page/yvbvlfh7fe-mip3ul74",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/af1fnlqlkr-mip3ul74",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/hvhbwl67xew-mip3ul74",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p291/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3758,
+                "width": 2682,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 84,
+                        "height": 118
+                      },
+                      {
+                        "width": 168,
+                        "height": 235
+                      },
+                      {
+                        "width": 336,
+                        "height": 470
+                      },
+                      {
+                        "width": 671,
+                        "height": 940
+                      },
+                      {
+                        "width": 1341,
+                        "height": 1879
+                      },
+                      {
+                        "width": 2682,
+                        "height": 3758
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2682,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p291",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3758
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/ql4irqshnho-mip3uqjz",
+      "type": "Canvas",
+      "height": 3896,
+      "width": 2782,
+      "label": {
+        "en": [
+          "292"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p292/full/348,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 487,
+          "width": 348
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/ql4irqshnho-mip3uqjz/annotation-page/qgs8nlw367i-mip3uqjz",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/ppilj0iu2w-mip3uqjz",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/ql4irqshnho-mip3uqjz",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p292/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3896,
+                "width": 2782,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 87,
+                        "height": 122
+                      },
+                      {
+                        "width": 174,
+                        "height": 244
+                      },
+                      {
+                        "width": 348,
+                        "height": 487
+                      },
+                      {
+                        "width": 696,
+                        "height": 974
+                      },
+                      {
+                        "width": 1391,
+                        "height": 1948
+                      },
+                      {
+                        "width": 2782,
+                        "height": 3896
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2782,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p292",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3896
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/790bscx2yfc-mip3uxfl",
+      "type": "Canvas",
+      "height": 3800,
+      "width": 2727,
+      "label": {
+        "en": [
+          "293"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p293/full/341,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 475,
+          "width": 341
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/790bscx2yfc-mip3uxfl/annotation-page/icndpyecxv-mip3uxfl",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/l5rifqelknb-mip3uxfl",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/790bscx2yfc-mip3uxfl",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p293/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3800,
+                "width": 2727,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 86,
+                        "height": 119
+                      },
+                      {
+                        "width": 171,
+                        "height": 238
+                      },
+                      {
+                        "width": 341,
+                        "height": 475
+                      },
+                      {
+                        "width": 682,
+                        "height": 950
+                      },
+                      {
+                        "width": 1364,
+                        "height": 1900
+                      },
+                      {
+                        "width": 2727,
+                        "height": 3800
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2727,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p293",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3800
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/y9gc17c884g-mip3v3sf",
+      "type": "Canvas",
+      "height": 3791,
+      "width": 2764,
+      "label": {
+        "en": [
+          "294"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p294/full/346,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 474,
+          "width": 346
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/y9gc17c884g-mip3v3sf/annotation-page/9l12va4w4pd-mip3v3sf",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/2pypeuseqwx-mip3v3sf",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/y9gc17c884g-mip3v3sf",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p294/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3791,
+                "width": 2764,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 87,
+                        "height": 119
+                      },
+                      {
+                        "width": 173,
+                        "height": 237
+                      },
+                      {
+                        "width": 346,
+                        "height": 474
+                      },
+                      {
+                        "width": 691,
+                        "height": 948
+                      },
+                      {
+                        "width": 1382,
+                        "height": 1896
+                      },
+                      {
+                        "width": 2764,
+                        "height": 3791
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2764,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p294",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3791
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/m8h4ypluow-mip3v9xs",
+      "type": "Canvas",
+      "height": 3787,
+      "width": 2740,
+      "label": {
+        "en": [
+          "295"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p295/full/343,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 474,
+          "width": 343
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/m8h4ypluow-mip3v9xs/annotation-page/8j4ojt1a0as-mip3v9xs",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/0l3onq71z8e-mip3v9xs",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/m8h4ypluow-mip3v9xs",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p295/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3787,
+                "width": 2740,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 86,
+                        "height": 119
+                      },
+                      {
+                        "width": 172,
+                        "height": 237
+                      },
+                      {
+                        "width": 343,
+                        "height": 474
+                      },
+                      {
+                        "width": 685,
+                        "height": 947
+                      },
+                      {
+                        "width": 1370,
+                        "height": 1894
+                      },
+                      {
+                        "width": 2740,
+                        "height": 3787
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2740,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p295",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3787
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/8uq8xkp3vaq-mip3vfod",
+      "type": "Canvas",
+      "height": 3932,
+      "width": 2829,
+      "label": {
+        "en": [
+          "296"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p296/full/354,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 492,
+          "width": 354
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/8uq8xkp3vaq-mip3vfod/annotation-page/74abamy65xy-mip3vfod",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/bqctk7nnwb-mip3vfoc",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/8uq8xkp3vaq-mip3vfod",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p296/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3932,
+                "width": 2829,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 89,
+                        "height": 123
+                      },
+                      {
+                        "width": 177,
+                        "height": 246
+                      },
+                      {
+                        "width": 354,
+                        "height": 492
+                      },
+                      {
+                        "width": 708,
+                        "height": 983
+                      },
+                      {
+                        "width": 1415,
+                        "height": 1966
+                      },
+                      {
+                        "width": 2829,
+                        "height": 3932
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2829,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p296",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3932
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/h617yhwf4gr-mip3vlqb",
+      "type": "Canvas",
+      "height": 3945,
+      "width": 2847,
+      "label": {
+        "en": [
+          "297"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p297/full/356,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 494,
+          "width": 356
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/h617yhwf4gr-mip3vlqb/annotation-page/kaxzvrjivd-mip3vlqb",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/uney3suwcro-mip3vlqb",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/h617yhwf4gr-mip3vlqb",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p297/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3945,
+                "width": 2847,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 89,
+                        "height": 124
+                      },
+                      {
+                        "width": 178,
+                        "height": 247
+                      },
+                      {
+                        "width": 356,
+                        "height": 494
+                      },
+                      {
+                        "width": 712,
+                        "height": 987
+                      },
+                      {
+                        "width": 1424,
+                        "height": 1973
+                      },
+                      {
+                        "width": 2847,
+                        "height": 3945
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2847,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p297",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3945
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/advcag5gdw6-mip3wjz6",
+      "type": "Canvas",
+      "height": 3759,
+      "width": 2635,
+      "label": {
+        "en": [
+          "298"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p298/full/330,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 470,
+          "width": 330
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/advcag5gdw6-mip3wjz6/annotation-page/hrzpcuab3xf-mip3wjz6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/el422qjj7ph-mip3wjz6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/advcag5gdw6-mip3wjz6",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p298/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3759,
+                "width": 2635,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 83,
+                        "height": 118
+                      },
+                      {
+                        "width": 165,
+                        "height": 235
+                      },
+                      {
+                        "width": 330,
+                        "height": 470
+                      },
+                      {
+                        "width": 659,
+                        "height": 940
+                      },
+                      {
+                        "width": 1318,
+                        "height": 1880
+                      },
+                      {
+                        "width": 2635,
+                        "height": 3759
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2635,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p298",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3759
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/c6lro0tymvi-mip42wiy",
+      "type": "Canvas",
+      "height": 3751,
+      "width": 2635,
+      "label": {
+        "en": [
+          "300"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p300/full/330,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 469,
+          "width": 330
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/c6lro0tymvi-mip42wiy/annotation-page/fclkr8941n-mip42wiy",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/6fxy6ka7i6b-mip3rig2/annotation/8i3jxmfj6gi-mip42wiy",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/6fxy6ka7i6b-mip3rig2/canvas/c6lro0tymvi-mip42wiy",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p300/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3751,
+                "width": 2635,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 83,
+                        "height": 118
+                      },
+                      {
+                        "width": 165,
+                        "height": 235
+                      },
+                      {
+                        "width": 330,
+                        "height": 469
+                      },
+                      {
+                        "width": 659,
+                        "height": 938
+                      },
+                      {
+                        "width": 1318,
+                        "height": 1876
+                      },
+                      {
+                        "width": 2635,
+                        "height": 3751
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2635,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Fuggilozio/3_10aprile1859/p300",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3751
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
