@@ -1,0 +1,1116 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/5yxzgip5u8-miuuazay",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Blank Manifest"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/o0c48b08gpo-miuvbn7l",
+      "type": "Canvas",
+      "height": 5556,
+      "width": 4200,
+      "label": {
+        "en": [
+          "85"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p85/full/525,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 695,
+          "width": 525
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/o0c48b08gpo-miuvbn7l/annotation-page/bgtxvbu0hx-miuvbn7l",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/wk9k05s71-miuvbn7l",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/o0c48b08gpo-miuvbn7l",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p85/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5556,
+                "width": 4200,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 132,
+                        "height": 174
+                      },
+                      {
+                        "width": 263,
+                        "height": 348
+                      },
+                      {
+                        "width": 525,
+                        "height": 695
+                      },
+                      {
+                        "width": 1050,
+                        "height": 1389
+                      },
+                      {
+                        "width": 2100,
+                        "height": 2778
+                      },
+                      {
+                        "width": 4200,
+                        "height": 5556
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4200,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p85",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5556
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/gwpicrzlrkm-miuv53ct",
+      "type": "Canvas",
+      "height": 5554,
+      "width": 4390,
+      "label": {
+        "en": [
+          "86"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p86/full/275,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 348,
+          "width": 275
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/gwpicrzlrkm-miuv53ct/annotation-page/ldsvdndh83-miuv53ct",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/bbbrphlgdh6-miuv53cs",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/gwpicrzlrkm-miuv53ct",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p86/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5554,
+                "width": 4390,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 138,
+                        "height": 174
+                      },
+                      {
+                        "width": 275,
+                        "height": 348
+                      },
+                      {
+                        "width": 549,
+                        "height": 695
+                      },
+                      {
+                        "width": 1098,
+                        "height": 1389
+                      },
+                      {
+                        "width": 2195,
+                        "height": 2777
+                      },
+                      {
+                        "width": 4390,
+                        "height": 5554
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4390,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p86",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5554
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/7vuebm40ati-miuv5od7",
+      "type": "Canvas",
+      "height": 5516,
+      "width": 4129,
+      "label": {
+        "en": [
+          "87"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p87/full/517,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 690,
+          "width": 517
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/7vuebm40ati-miuv5od7/annotation-page/i5f00pr14sa-miuv5od7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/8eiizu1q2vr-miuv5od7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/7vuebm40ati-miuv5od7",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p87/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5516,
+                "width": 4129,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 130,
+                        "height": 173
+                      },
+                      {
+                        "width": 259,
+                        "height": 345
+                      },
+                      {
+                        "width": 517,
+                        "height": 690
+                      },
+                      {
+                        "width": 1033,
+                        "height": 1379
+                      },
+                      {
+                        "width": 2065,
+                        "height": 2758
+                      },
+                      {
+                        "width": 4129,
+                        "height": 5516
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4129,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p87",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5516
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/x40swxm5egj-miuv6c3e",
+      "type": "Canvas",
+      "height": 5558,
+      "width": 4374,
+      "label": {
+        "en": [
+          "88"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p88/full/274,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 348,
+          "width": 274
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/x40swxm5egj-miuv6c3e/annotation-page/bkh2idev7rd-miuv6c3e",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/1dhj8482dhz-miuv6c3e",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/x40swxm5egj-miuv6c3e",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p88/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5558,
+                "width": 4374,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 137,
+                        "height": 174
+                      },
+                      {
+                        "width": 274,
+                        "height": 348
+                      },
+                      {
+                        "width": 547,
+                        "height": 695
+                      },
+                      {
+                        "width": 1094,
+                        "height": 1390
+                      },
+                      {
+                        "width": 2187,
+                        "height": 2779
+                      },
+                      {
+                        "width": 4374,
+                        "height": 5558
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4374,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p88",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5558
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/6x9vsppb0po-miuv6q4v",
+      "type": "Canvas",
+      "height": 5558,
+      "width": 4241,
+      "label": {
+        "en": [
+          "89"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p89/full/531,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 695,
+          "width": 531
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/6x9vsppb0po-miuv6q4v/annotation-page/kyexp9wk0nh-miuv6q4v",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/eid9dxkkvq-miuv6q4v",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/6x9vsppb0po-miuv6q4v",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p89/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5558,
+                "width": 4241,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 133,
+                        "height": 174
+                      },
+                      {
+                        "width": 266,
+                        "height": 348
+                      },
+                      {
+                        "width": 531,
+                        "height": 695
+                      },
+                      {
+                        "width": 1061,
+                        "height": 1390
+                      },
+                      {
+                        "width": 2121,
+                        "height": 2779
+                      },
+                      {
+                        "width": 4241,
+                        "height": 5558
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4241,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p89",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5558
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/2t5d7t2dvq5-miuv6xcf",
+      "type": "Canvas",
+      "height": 5566,
+      "width": 4408,
+      "label": {
+        "en": [
+          "90"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p90/full/276,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 348,
+          "width": 276
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/2t5d7t2dvq5-miuv6xcf/annotation-page/wp1cqragvgg-miuv6xcf",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/t9423wcnw1i-miuv6xcf",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/2t5d7t2dvq5-miuv6xcf",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p90/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5566,
+                "width": 4408,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 138,
+                        "height": 174
+                      },
+                      {
+                        "width": 276,
+                        "height": 348
+                      },
+                      {
+                        "width": 551,
+                        "height": 696
+                      },
+                      {
+                        "width": 1102,
+                        "height": 1392
+                      },
+                      {
+                        "width": 2204,
+                        "height": 2783
+                      },
+                      {
+                        "width": 4408,
+                        "height": 5566
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4408,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p90",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5566
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/q513vvoufy8-miuv7raq",
+      "type": "Canvas",
+      "height": 5566,
+      "width": 4270,
+      "label": {
+        "en": [
+          "91"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p91/full/267,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 348,
+          "width": 267
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/q513vvoufy8-miuv7raq/annotation-page/fyg5qfh87im-miuv7raq",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/y2ujdwf1fc-miuv7rap",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/q513vvoufy8-miuv7raq",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p91/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5566,
+                "width": 4270,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 134,
+                        "height": 174
+                      },
+                      {
+                        "width": 267,
+                        "height": 348
+                      },
+                      {
+                        "width": 534,
+                        "height": 696
+                      },
+                      {
+                        "width": 1068,
+                        "height": 1392
+                      },
+                      {
+                        "width": 2135,
+                        "height": 2783
+                      },
+                      {
+                        "width": 4270,
+                        "height": 5566
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4270,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p91",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5566
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/dp24a58ktcr-miuv82j3",
+      "type": "Canvas",
+      "height": 5478,
+      "width": 4354,
+      "label": {
+        "en": [
+          "92"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p92/full/273,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 343,
+          "width": 273
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/dp24a58ktcr-miuv82j3/annotation-page/qecjg24daaj-miuv82j3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/mz2ky9wui2r-miuv82j3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/dp24a58ktcr-miuv82j3",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p92/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5478,
+                "width": 4354,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 137,
+                        "height": 172
+                      },
+                      {
+                        "width": 273,
+                        "height": 343
+                      },
+                      {
+                        "width": 545,
+                        "height": 685
+                      },
+                      {
+                        "width": 1089,
+                        "height": 1370
+                      },
+                      {
+                        "width": 2177,
+                        "height": 2739
+                      },
+                      {
+                        "width": 4354,
+                        "height": 5478
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4354,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p92",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5478
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/638tn39sz4j-miuv9btv",
+      "type": "Canvas",
+      "height": 5537,
+      "width": 4259,
+      "label": {
+        "en": [
+          "93"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p93/full/267,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 347,
+          "width": 267
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/638tn39sz4j-miuv9btv/annotation-page/ukzxta2c6b-miuv9btv",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/ozdwri9x8z-miuv9btv",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/638tn39sz4j-miuv9btv",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p93/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5537,
+                "width": 4259,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 134,
+                        "height": 174
+                      },
+                      {
+                        "width": 267,
+                        "height": 347
+                      },
+                      {
+                        "width": 533,
+                        "height": 693
+                      },
+                      {
+                        "width": 1065,
+                        "height": 1385
+                      },
+                      {
+                        "width": 2130,
+                        "height": 2769
+                      },
+                      {
+                        "width": 4259,
+                        "height": 5537
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4259,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p93",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5537
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/84uvyukiygl-miuv9kvu",
+      "type": "Canvas",
+      "height": 5558,
+      "width": 4409,
+      "label": {
+        "en": [
+          "94"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p94/full/276,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 348,
+          "width": 276
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/84uvyukiygl-miuv9kvu/annotation-page/27035xs4y7bi-miuv9kvu",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/cryd8feqcdg-miuv9kvu",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/84uvyukiygl-miuv9kvu",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p94/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5558,
+                "width": 4409,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 138,
+                        "height": 174
+                      },
+                      {
+                        "width": 276,
+                        "height": 348
+                      },
+                      {
+                        "width": 552,
+                        "height": 695
+                      },
+                      {
+                        "width": 1103,
+                        "height": 1390
+                      },
+                      {
+                        "width": 2205,
+                        "height": 2779
+                      },
+                      {
+                        "width": 4409,
+                        "height": 5558
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4409,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p94",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5558
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/c7k2m7ulwta-miuv9td8",
+      "type": "Canvas",
+      "height": 5558,
+      "width": 4260,
+      "label": {
+        "en": [
+          "95"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p95/full/267,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 348,
+          "width": 267
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/c7k2m7ulwta-miuv9td8/annotation-page/wnokf7lanf-miuv9td8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/rxdo654rsyk-miuv9td8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/c7k2m7ulwta-miuv9td8",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p95/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5558,
+                "width": 4260,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 134,
+                        "height": 174
+                      },
+                      {
+                        "width": 267,
+                        "height": 348
+                      },
+                      {
+                        "width": 533,
+                        "height": 695
+                      },
+                      {
+                        "width": 1065,
+                        "height": 1390
+                      },
+                      {
+                        "width": 2130,
+                        "height": 2779
+                      },
+                      {
+                        "width": 4260,
+                        "height": 5558
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4260,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p95",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5558
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/iv0swx4dfi-miuv9yy9",
+      "type": "Canvas",
+      "height": 5572,
+      "width": 4391,
+      "label": {
+        "en": [
+          "96"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p96/full/275,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 349,
+          "width": 275
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/5yxzgip5u8-miuuazay/canvas/iv0swx4dfi-miuv9yy9/annotation-page/ygea5dcs0b-miuv9yy9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/5yxzgip5u8-miuuazay/annotation/bkegha4h2cq-miuv9yy8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/5yxzgip5u8-miuuazay/canvas/iv0swx4dfi-miuv9yy9",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p96/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 5572,
+                "width": 4391,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 138,
+                        "height": 175
+                      },
+                      {
+                        "width": 275,
+                        "height": 349
+                      },
+                      {
+                        "width": 549,
+                        "height": 697
+                      },
+                      {
+                        "width": 1098,
+                        "height": 1393
+                      },
+                      {
+                        "width": 2196,
+                        "height": 2786
+                      },
+                      {
+                        "width": 4391,
+                        "height": 5572
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4391,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/Pungolo/3-2maggio1857/Pungolo18570502p96",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 5572
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
