@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 154,
+    "height" : 118
+  }, {
+    "width" : 307,
+    "height" : 235
+  }, {
+    "width" : 614,
+    "height" : 470
+  }, {
+    "width" : 1227,
+    "height" : 939
+  }, {
+    "width" : 2454,
+    "height" : 1878
+  }, {
+    "width" : 4908,
+    "height" : 3756
+  } ],
+  "profile" : "level0",
+  "width" : 4908,
+  "id" : "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf102r",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 3756
+}
