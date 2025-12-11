@@ -1,0 +1,380 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/mid42div34g-mj1d2j5o",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "TrierStadtbibliothek1178_480"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/mid42div34g-mj1d2j5o/canvas/t837ax4fdtc-mj1d80dq",
+      "type": "Canvas",
+      "height": 3756,
+      "width": 4908,
+      "label": {
+        "en": [
+          "102"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf102r/full/307,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 235,
+          "width": 307
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/mid42div34g-mj1d2j5o/canvas/t837ax4fdtc-mj1d80dq/annotation-page/379dud9y8j5-mj1d80dq",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/mid42div34g-mj1d2j5o/annotation/179016ida18-mj1d80dp",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/mid42div34g-mj1d2j5o/canvas/t837ax4fdtc-mj1d80dq",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf102r/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3756,
+                "width": 4908,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 154,
+                        "height": 118
+                      },
+                      {
+                        "width": 307,
+                        "height": 235
+                      },
+                      {
+                        "width": 614,
+                        "height": 470
+                      },
+                      {
+                        "width": 1227,
+                        "height": 939
+                      },
+                      {
+                        "width": 2454,
+                        "height": 1878
+                      },
+                      {
+                        "width": 4908,
+                        "height": 3756
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4908,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf102r",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3756
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/mid42div34g-mj1d2j5o/canvas/ci6ml08v9h-mj1d8fof",
+      "type": "Canvas",
+      "height": 3756,
+      "width": 4908,
+      "label": {
+        "en": [
+          "103"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf103r/full/307,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 235,
+          "width": 307
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/mid42div34g-mj1d2j5o/canvas/ci6ml08v9h-mj1d8fof/annotation-page/ex6y27gnh14-mj1d8fof",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/mid42div34g-mj1d2j5o/annotation/2z3dkk4vquk-mj1d8fof",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/mid42div34g-mj1d2j5o/canvas/ci6ml08v9h-mj1d8fof",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf103r/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3756,
+                "width": 4908,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 154,
+                        "height": 118
+                      },
+                      {
+                        "width": 307,
+                        "height": 235
+                      },
+                      {
+                        "width": 614,
+                        "height": 470
+                      },
+                      {
+                        "width": 1227,
+                        "height": 939
+                      },
+                      {
+                        "width": 2454,
+                        "height": 1878
+                      },
+                      {
+                        "width": 4908,
+                        "height": 3756
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4908,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf103r",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3756
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/mid42div34g-mj1d2j5o/canvas/3vjiyvjp1jl-mj1d8t92",
+      "type": "Canvas",
+      "height": 3756,
+      "width": 4908,
+      "label": {
+        "en": [
+          "104"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf104r/full/307,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 235,
+          "width": 307
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/mid42div34g-mj1d2j5o/canvas/3vjiyvjp1jl-mj1d8t92/annotation-page/negbnva9pf-mj1d8t92",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/mid42div34g-mj1d2j5o/annotation/msnro9mhw-mj1d8t92",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/mid42div34g-mj1d2j5o/canvas/3vjiyvjp1jl-mj1d8t92",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf104r/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3756,
+                "width": 4908,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 154,
+                        "height": 118
+                      },
+                      {
+                        "width": 307,
+                        "height": 235
+                      },
+                      {
+                        "width": 614,
+                        "height": 470
+                      },
+                      {
+                        "width": 1227,
+                        "height": 939
+                      },
+                      {
+                        "width": 2454,
+                        "height": 1878
+                      },
+                      {
+                        "width": 4908,
+                        "height": 3756
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4908,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf104r",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3756
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/mid42div34g-mj1d2j5o/canvas/9suw7710msu-mj1d94il",
+      "type": "Canvas",
+      "height": 3756,
+      "width": 4908,
+      "label": {
+        "en": [
+          "105"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf105r/full/307,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 235,
+          "width": 307
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/mid42div34g-mj1d2j5o/canvas/9suw7710msu-mj1d94il/annotation-page/n800gfiaz4-mj1d94il",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/mid42div34g-mj1d2j5o/annotation/mqdz3mhk71-mj1d94ik",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/mid42div34g-mj1d2j5o/canvas/9suw7710msu-mj1d94il",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf105r/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3756,
+                "width": 4908,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 154,
+                        "height": 118
+                      },
+                      {
+                        "width": 307,
+                        "height": 235
+                      },
+                      {
+                        "width": 614,
+                        "height": 470
+                      },
+                      {
+                        "width": 1227,
+                        "height": 939
+                      },
+                      {
+                        "width": 2454,
+                        "height": 1878
+                      },
+                      {
+                        "width": 4908,
+                        "height": 3756
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 4908,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/CAMILLA/TrierStadtbibliothek1178_480/WiBiTrHs117804804DSf105r",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3756
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
