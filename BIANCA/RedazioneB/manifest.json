@@ -1,0 +1,380 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://example.org/t84zy41qwsb-mu8gbf41",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Blank Manifest"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/hatv7vvgl3s-mu8gbl6w",
+      "type": "Canvas",
+      "height": 3347,
+      "width": 2745,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_2/full/344,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 419,
+          "width": 344
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/hatv7vvgl3s-mu8gbl6w/annotation-page/or890cclrvo-mu8gbl6w",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/t84zy41qwsb-mu8gbf41/annotation/i9ubmkbu1o-mu8gbl6w",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/hatv7vvgl3s-mu8gbl6w",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_2/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3347,
+                "width": 2745,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 86,
+                        "height": 105
+                      },
+                      {
+                        "width": 172,
+                        "height": 210
+                      },
+                      {
+                        "width": 344,
+                        "height": 419
+                      },
+                      {
+                        "width": 687,
+                        "height": 837
+                      },
+                      {
+                        "width": 1373,
+                        "height": 1674
+                      },
+                      {
+                        "width": 2745,
+                        "height": 3347
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2745,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_2",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3347
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/15xetzi7oqn-mu8gcaj0",
+      "type": "Canvas",
+      "height": 3373,
+      "width": 2777,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_3/full/348,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 422,
+          "width": 348
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/15xetzi7oqn-mu8gcaj0/annotation-page/2it15a0jo27-mu8gcaj0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/t84zy41qwsb-mu8gbf41/annotation/uy259hf7zu-mu8gcaj0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/15xetzi7oqn-mu8gcaj0",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_3/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3373,
+                "width": 2777,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 87,
+                        "height": 106
+                      },
+                      {
+                        "width": 174,
+                        "height": 211
+                      },
+                      {
+                        "width": 348,
+                        "height": 422
+                      },
+                      {
+                        "width": 695,
+                        "height": 844
+                      },
+                      {
+                        "width": 1389,
+                        "height": 1687
+                      },
+                      {
+                        "width": 2777,
+                        "height": 3373
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2777,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_3",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3373
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/teyqy0mq04-mu8gcgq3",
+      "type": "Canvas",
+      "height": 3373,
+      "width": 2778,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_4/full/348,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 422,
+          "width": 348
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/teyqy0mq04-mu8gcgq3/annotation-page/exalo3xbg5p-mu8gcgq3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/t84zy41qwsb-mu8gbf41/annotation/yev8l2mbn0j-mu8gcgq3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/teyqy0mq04-mu8gcgq3",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_4/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3373,
+                "width": 2778,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 87,
+                        "height": 106
+                      },
+                      {
+                        "width": 174,
+                        "height": 211
+                      },
+                      {
+                        "width": 348,
+                        "height": 422
+                      },
+                      {
+                        "width": 695,
+                        "height": 844
+                      },
+                      {
+                        "width": 1389,
+                        "height": 1687
+                      },
+                      {
+                        "width": 2778,
+                        "height": 3373
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2778,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_4",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3373
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/gc9i0krox7t-mu8gcntr",
+      "type": "Canvas",
+      "height": 3372,
+      "width": 2777,
+      "label": {
+        "en": [
+          "Untitled canvas"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_5/full/348,/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "height": 422,
+          "width": 348
+        }
+      ],
+      "items": [
+        {
+          "id": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/gc9i0krox7t-mu8gcntr/annotation-page/orocasddtxi-mu8gcntr",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/t84zy41qwsb-mu8gbf41/annotation/z2jrgthzzj-mu8gcntq",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://example.org/t84zy41qwsb-mu8gbf41/canvas/gc9i0krox7t-mu8gcntr",
+              "body": {
+                "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_5/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3372,
+                "width": 2777,
+                "service": [
+                  {
+                    "tiles": [
+                      {
+                        "scaleFactors": [
+                          32,
+                          16,
+                          8,
+                          4,
+                          2,
+                          1
+                        ],
+                        "width": 1024,
+                        "height": 1024
+                      }
+                    ],
+                    "protocol": "http://iiif.io/api/image",
+                    "sizes": [
+                      {
+                        "width": 87,
+                        "height": 106
+                      },
+                      {
+                        "width": 174,
+                        "height": 211
+                      },
+                      {
+                        "width": 348,
+                        "height": 422
+                      },
+                      {
+                        "width": 695,
+                        "height": 843
+                      },
+                      {
+                        "width": 1389,
+                        "height": 1686
+                      },
+                      {
+                        "width": 2777,
+                        "height": 3372
+                      }
+                    ],
+                    "profile": "level0",
+                    "width": 2777,
+                    "id": "https://ai4ch-uniud.github.io/DigitalImages/BIANCA/RedazioneB/b_ms_3941_5",
+                    "type": "ImageService3",
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "height": 3372
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
